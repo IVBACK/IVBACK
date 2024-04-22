@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @IVBACK
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning Unity and C#.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 IVBACK/IVBACK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
